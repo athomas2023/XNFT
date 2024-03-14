@@ -20,7 +20,7 @@ Contributing:
 Issues: Submit bug reports, feature requests, or questions using the "Issues" tab.
 Pull Requests: Contribute code enhancements or fixes by opening a pull request.
 License:
-XNFT is licensed under the Creative Commons Zero (CC0) license, which allows you to use the software for any purpose, without any restrictions. See the LICENSE file for details.
+XNFT by Andrew Austin Thomas is marked with CC0 1.0 
 
 Maintainer:
 Andrew Austin Thomas - Email
